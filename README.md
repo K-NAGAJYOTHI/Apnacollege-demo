@@ -1,4 +1,0 @@
-# Apnacollege-demo
-This is my first Git Repository
-<br>
-Author-K.Naga Jyothi(Apna College)
